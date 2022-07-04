@@ -1,0 +1,19 @@
+body {
+    background-image: url("https://i0.wp.com/post.healthline.com/wp-content/uploads/2020/04/low-carb-diet-meal-plan-and-menu-1296x728-feature.jpg?h=1528.jpg")
+    text-align: center;
+    font-family: sans-serif;
+    font-size: 18px;
+    a {
+        text-decoration: none;
+    }
+    header {
+        grid-column-start:1
+        grid-column-end:7
+        display:grid
+        title {
+            margin: auto;
+            color: #dc6363;
+            font-family: Sans-serif;
+            font-size: 2em;
+            font-weight: 700;
+          }
